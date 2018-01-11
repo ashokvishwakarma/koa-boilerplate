@@ -1,4 +1,4 @@
-# koajs-boilerplate
+# koa-boilerplate
 An easy getting started boilerplate using KoaJS, Mongoose, Kue and Koa-Router
 
 ## Files
